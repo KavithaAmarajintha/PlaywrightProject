@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "executions": [
+    {
+      "result": "Fail",
+      "testCase": {
+        "key": "HRVMS-T1253",
+        "comment": "<b>❌ Error Message: </b> <br> <span style=\"color: rgb(226, 80, 65);\">TimeoutError: locator.click: Timeout 10000ms exceeded.<br>Call log:<br>  \u001b[2m- waiting for locator('#Login')\u001b[22m<br>\u001b[2m  -   locator resolved to <input id=\"Login\" name=\"Login\" type=\"submit\" value=\"Log…/>\u001b[22m<br>\u001b[2m  - attempting click action\u001b[22m<br>\u001b[2m  -   waiting for element to be visible, enabled and stable\u001b[22m<br>\u001b[2m  -   element is visible, enabled and stable\u001b[22m<br>\u001b[2m  -   scrolling into view if needed\u001b[22m<br>\u001b[2m  -   done scrolling\u001b[22m<br>\u001b[2m  -   performing click action\u001b[22m<br>\u001b[2m  -   click action done\u001b[22m<br>\u001b[2m  -   waiting for scheduled navigations to finish\u001b[22m<br></span> <br> <br> <b>🧱 Stack Trace:</b> <br> <span style=\"color: rgb(226, 80, 65);\">TimeoutError: locator.click: Timeout 10000ms exceeded.<br>Call log:<br>  \u001b[2m- waiting for locator('#Login')\u001b[22m<br>\u001b[2m  -   locator resolved to <input id=\"Login\" name=\"Login\" type=\"submit\" value=\"Log…/>\u001b[22m<br>\u001b[2m  - attempting click action\u001b[22m<br>\u001b[2m  -   waiting for element to be visible, enabled and stable\u001b[22m<br>\u001b[2m  -   element is visible, enabled and stable\u001b[22m<br>\u001b[2m  -   scrolling into view if needed\u001b[22m<br>\u001b[2m  -   done scrolling\u001b[22m<br>\u001b[2m  -   performing click action\u001b[22m<br>\u001b[2m  -   click action done\u001b[22m<br>\u001b[2m  -   waiting for scheduled navigations to finish\u001b[22m<br><br>    at LoginPage.LoginMethod (C:\\Users\\Kavithaa\\Downloads\\PlaywrightNew\\Pages\\LoginPage.ts:24:33)<br>    at C:\\Users\\Kavithaa\\Downloads\\PlaywrightNew\\e2e\\Hrvms\\employee\\login.spec.ts:10:8</span>"
+      }
+    }
+  ]
+}

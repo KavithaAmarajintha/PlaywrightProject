@@ -1,0 +1,8 @@
+Employee Timesheet Report
+Day Wise Report
+Update DailyWise TimeSheet
+Time Sheet Updated Successfully.
+Timesheet Details
+Are you sure you want to delete this?
+Are you sure you want to Submit this timesheet?
+No matching records found
